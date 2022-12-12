@@ -1,0 +1,22 @@
+{
+  "clerk": {
+    "name": "clerk",
+    "description": "Clerk",
+    "tags": [
+      "authentication"
+    ],
+    "tutorials": [
+      "https://auth.com",
+      "https://github.com"
+    ]
+  },
+  "name": "clerk2",
+  "description": "Clerk",
+  "tags": [
+    "authentication"
+  ],
+  "tutorials": [
+    "https://auth.com",
+    "https://github.com"
+  ]
+}
